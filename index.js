@@ -1,2 +1,2 @@
 
-console.log(`try on a new branch`)
+console.log(`I am changing the type`)
