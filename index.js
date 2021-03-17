@@ -1,2 +1,2 @@
 
-console.log(`I am changing the type`)
+console.log(`I am changing the type 2`)
